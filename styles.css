@@ -4,13 +4,19 @@ nav {
     background-color: lightgrey;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
+
 
 #linki {
     display: flex;
-    align-content: space-around;
+    align-items: center;
+    padding: 1em;
+
 }
 #linki a {
     text-decoration: none;
+    display: flex;
+
 
 }
